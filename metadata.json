@@ -1,0 +1,8 @@
+{
+  "name": "Kashif AI - Arabic & Multimodal Suite",
+  "description": "A comprehensive AI tool featuring Arabic text detection, real-time voice conversation, Veo video generation, and advanced image analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
